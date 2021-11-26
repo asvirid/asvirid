@@ -3,7 +3,7 @@ I’m Anastasiia, a first-generation female in tech passionate about technology 
 ## 🌱 I’m currently learning ... 
 💻 Web Development \
 📱 Mobile App Development \
-👨🏻‍💻 Python, C++, TensorFlow
+👨🏻‍💻 Python, JavaScript, React
 ## 📫 How to reach me ... 
 :envelope: By Email: asvirid@bu.edu \
 :bulb: Via [LinkedIn](https://www.linkedin.com/in/anastasiia-sviridenko/)
