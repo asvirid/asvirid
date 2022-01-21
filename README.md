@@ -3,7 +3,7 @@ I’m Anastasiia, a first-generation female with a strong passion for technology
 ## 🌱 I’m currently learning ... 
 💻 JavaScript, React \
 📱 Kotlin \
-👨🏻‍💻 Python \
+👨🏻‍💻 Python 
 
 ## 📫 How to reach me ... 
 :envelope: By Email: asvirid@bu.edu \
