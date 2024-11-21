@@ -1,5 +1,5 @@
 ## 👋 Hi, there! 
-I’m Anastasiia, a software engineer and a first-generation female in tech with a strong passion for technology, innovation and human-centered design. I aspire to implement my skills to develop mext big market leading products! I am currently a senior pursuing a dual degree in Computer Science and Business Management & Information Systems from Boston University which I will complete in May 2022.
+I’m Anastasiia, a full-stack software engineer and a first-generation female in tech with a strong passion for technology, innovation, and human-centered design. I aspire to use my skills to develop the next big market-leading products!
 ## 🌱 I’m currently learning ... 
 📱 Kotlin \
 💻 JavaScript, React \
